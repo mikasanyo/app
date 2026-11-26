@@ -1,0 +1,7 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1.0",
+  "minSupportedVersionCode": 1,
+  "downloadUrl": "https://pan.example.com/s/your-share-id",
+  "releaseNotes": "• 修复已知问题\n• 优化启动速度\n• 新增版本更新提示"
+}
