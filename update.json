@@ -3,7 +3,7 @@
   "latestVersionName": "1.3.0",
   "minSupportedVersionCode": 1,
   "downloadUrl": "https://mikasanyo.github.io/app/app-update-skeleton-1.3.0-debug.apk",
-  "fallbackUrl": "https://www.lanzou.com/",
+  "fallbackUrl": "https://wwbku.lanzoub.com/ielHU4hg1rne",
   "sha256": "3805d262f285abcad586eb4e6359536d0fb7aef2d6ec66c7a5c374df68255024",
   "releaseNotes": "• 支持应用内后台下载并显示进度\n• 下载失败可改用浏览器打开蓝奏云\n• “以后再说”后不再自动弹窗，手动检查仍会提示"
 }
